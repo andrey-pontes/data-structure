@@ -1,8 +1,8 @@
 ![Estrutura de Dados](assets/logo.png)
 
-# Algoritmos disponíveis nesse repositório:
-  - `sequential_search`
-  - `binary_search`
+# Sumário:
+- [Busca Binária](##_Função_`binary_search)
+- [Busca Sequencial](##_Função_`sequential_search`)
 
 ## Função `sequential_search`
 
@@ -19,6 +19,7 @@ A função `sequential_search` realiza uma busca linear no array, verificando ca
 ### Retorno
   - Índice do elemento encontrado: Se o elemento target for encontrado no array, a função retorna o índice do mesmo.
   - `-1`: Se o elemento não for encontrado, a função retorna -1.
+
 
 ## Função `binary_search`
 
