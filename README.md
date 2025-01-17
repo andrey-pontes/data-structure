@@ -40,5 +40,15 @@ A função `binary_search` realiza uma busca binária em um array de inteiros or
 ## Exemplos de uso dos algoritmos
 Implementados na função `main` de cada arquivo.
 
+### Como executar
+Para compilar o código:
+```bash
+  gcc -o nome_do_arquivo arquivo.c
+```
+Para executar o programa:
+```bash
+ ./nome_do_arquivo
+```
+
 
 
