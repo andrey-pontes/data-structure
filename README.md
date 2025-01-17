@@ -1,8 +1,8 @@
 ![Estrutura de Dados](assets/logo.png)
 
 # Sumário:
-- [Busca Binária](##_Função_`binary_search)
-- [Busca Sequencial](##_Função_`sequential_search`)
+- [Busca Binária](#Função_`binary_search)
+- [Busca Sequencial](#Função_`sequential_search`)
 
 ## Função `sequential_search`
 
