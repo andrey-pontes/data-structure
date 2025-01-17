@@ -1,4 +1,4 @@
-# Estrutura de Dados
+![Estrutura de Dados](assets/logo.png)
 
 ## Algoritmos disponíveis nesse repositório:
   - `sequential_search`
