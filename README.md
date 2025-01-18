@@ -39,7 +39,7 @@ A função `sequential_search` realiza uma busca linear no array, verificando ca
 A função `binary_search` realiza uma busca binária em um array de inteiros ordenado, retornando o índice do elemento buscado ou `-1` caso o elemento não seja encontrado. O número de comparações feitas durante a busca também é contado e retornado.
 
 ### Parâmetros da Função
-  - `arr[] (int[])`: Um array de inteiros ordenado em ordem crescente.
+  - `array[] (int[])`: Um array de inteiros ordenado em ordem crescente.
   - `low (int)`: O índice inicial do array (geralmente 0).
   - `high (int)`: O índice final do array (geralmente size - 1).
   - `target (int)`: O número a ser buscado no array.
@@ -63,7 +63,7 @@ Esse módulo implementa o **padrão de projeto Strategy** em C para ordenação 
 O algoritmo `bubble_sort` realiza a ordenação de um array. Caso nenhuma troca ocorra durante uma passagem, o algoritmo encerra a ordenação, evitando iterações desnecessárias.
 
 ### Parâmetros da função
-  - `arr[]`: Array de inteiros a ser ordenado.
+  - `array[]`: Array de inteiros a ser ordenado.
   - `n`: Tamanho do array.
 
 ### Retorno
