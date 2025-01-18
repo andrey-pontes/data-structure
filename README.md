@@ -5,7 +5,7 @@
 - [Busca Binária](#função-binary_search)
 
 
-## Função sequential_search
+# Função sequential_search
 
 ### Descrição
 
@@ -22,7 +22,7 @@ A função `sequential_search` realiza uma busca linear no array, verificando ca
   - `-1`: Se o elemento não for encontrado, a função retorna -1.
 
 
-## Função binary_search
+# Função binary_search
 
 ### Descrição
 
@@ -39,8 +39,8 @@ A função `binary_search` realiza uma busca binária em um array de inteiros or
   - Índice do elemento encontrado: Se o elemento target for encontrado no array, a função retorna o índice do mesmo.
   - `-1`: Se o elemento não for encontrado, a função retorna -1.
 
-## Exemplos de uso dos algoritmos
-Implementados na função `main` de cada arquivo.
+# Exemplo de uso
+Exemplos implementados na função `main` de cada arquivo.
 
 ### Como executar
 Para compilar o código:
