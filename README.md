@@ -1,10 +1,11 @@
 ![Estrutura de Dados](assets/logo.png)
 
 # Sumário:
-- [Busca Binária](#Função_`binary_search)
-- [Busca Sequencial](#Função_`sequential_search`)
+- [Busca Sequencial](#função-sequential_search)
+- [Busca Binária](#função-binary_search)
 
-## Função `sequential_search`
+
+## Função sequential_search
 
 ### Descrição
 
@@ -21,7 +22,7 @@ A função `sequential_search` realiza uma busca linear no array, verificando ca
   - `-1`: Se o elemento não for encontrado, a função retorna -1.
 
 
-## Função `binary_search`
+## Função binary_search
 
 ### Descrição
 
