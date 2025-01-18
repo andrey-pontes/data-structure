@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int binary_search(int arr[], int low, int high, int target, int *comparisons) {
+int binary_search(int array[], int low, int high, int target, int *comparisons) {
     
     while (low <= high) {
         int mid = low + (high - low) / 2;
         (*comparisons)++; 
 
-        if (arr[mid] == target) {
+        if (array[mid] == target) {
             return mid;
         }
 
-        if (arr[mid] > target) {
+        if (array[mid] > target) {
             high = mid - 1;
             continue;
         }
